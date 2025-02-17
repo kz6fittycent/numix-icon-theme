@@ -1,4 +1,4 @@
-[![numix-icon-theme](https://snapcraft.io/numix-icon-theme/badge.svg)](https://snapcraft.io/numix-icon-theme)
+[![numix-icon-theme](https://snapcraft.io/numix-icon-theme/badge.svg)](https://snapcraft.io/numix-icon-theme) [![🧪 Snap Builds](https://github.com/kz6fittycent/numix-icon-theme/actions/workflows/test-snap-can-build.yml/badge.svg)](https://github.com/kz6fittycent/numix-icon-theme/actions/workflows/test-snap-can-build.yml)
 
 # numix-icon-theme
 
