@@ -1,3 +1,5 @@
+[![numix-icon-theme](https://snapcraft.io/numix-icon-theme/badge.svg)](https://snapcraft.io/numix-icon-theme)
+
 # numix-icon-theme
 
 A snap for the [Numix icon theme](https://github.com/numixproject/numix-icon-theme/).
