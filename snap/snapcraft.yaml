@@ -10,6 +10,7 @@ base: bare
 grade: stable
 confinement: strict
 license: GPL-3.0
+icon: snap/local/numix.png
 
 architectures:
   - build-on: amd64
